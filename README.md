@@ -1,5 +1,22 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Getting Started
+
+Create an account at https://www.petfinder.com/developers/ and request an API KEY and SECRET KEY
+To generate a token run the following command:
+
+```sh
+curl -d "grant_type=client_credentials&client_id={your_api_key}&client_secret={your_secret}" https://api.petfinder.com/v2/oauth2/token
+```
+
+Create a (dot)env file
+
+```sh
+REACT_APP_TOKEN=<your token here>
+REACT_APP_SECRET=<your secret here>
+REACT_APP_API_KEY=<your api key here>
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
