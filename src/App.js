@@ -20,7 +20,7 @@ export default function App() {
   // });
   return (
     <div>
-      <Cards data={myData} />
+      <Cards {...myData} />
     </div>
   );
 }
