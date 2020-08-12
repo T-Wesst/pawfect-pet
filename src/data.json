@@ -1,85 +1,1483 @@
 {
   "animals": [
     {
-      "id": 120,
-      "organization_id": "NJ333",
-      "url": "https://www.petfinder.com/dog/spot-120/nj/jersey-city/nj333-petfinder-test-account/?referrer_id=d7e3700b-2e07-11e9-b3f3-0800275f82b1",
+      "id": 48754065,
+      "organization_id": "AZ490",
+      "url": "https://www.petfinder.com/dog/benny-48754065/az/phoenix/2darescue-az490/?referrer_id=4bfd708a-5b08-4e9d-9386-63e638af4c36",
       "type": "Dog",
       "species": "Dog",
       "breeds": {
-        "primary": "Akita",
+        "primary": "Labrador Retriever",
         "secondary": null,
-        "mixed": false,
+        "mixed": true,
         "unknown": false
       },
-      "colors": {
-        "primary": null,
-        "secondary": null,
-        "tertiary": null
-      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
       "age": "Young",
       "gender": "Male",
       "size": "Medium",
       "coat": null,
       "attributes": {
         "spayed_neutered": false,
-        "house_trained": true,
+        "house_trained": false,
         "declawed": null,
-        "special_needs": true,
+        "special_needs": false,
         "shots_current": false
       },
-      "environment": {
-        "children": false,
-        "dogs": false,
-        "cats": false
-      },
-      "tags": [
-        "Cute",
-        "Intelligent",
-        "Large",
-        "Playful",
-        "Happy",
-        "Affectionate"
-      ],
-      "name": "Spot",
-      "description": "Spot is an amazing dog",
-      "photos": [
-        {
-          "small": "https://photos.petfinder.com/photos/pets/42706540/1/?bust=1546042081&width=100",
-          "medium": "https://photos.petfinder.com/photos/pets/42706540/1/?bust=1546042081&width=300",
-          "large": "https://photos.petfinder.com/photos/pets/42706540/1/?bust=1546042081&width=600",
-          "full": "https://photos.petfinder.com/photos/pets/42706540/1/?bust=1546042081"
-        }
-      ],
-      "videos": [
-        {
-          "embed": "<iframe src=\"https://www.youtube.com/embed/xaXbs1fRFRM\" frameborder=\"0\" allowfullscreen></iframe>"
-        }
-      ],
+      "environment": { "children": true, "dogs": true, "cats": null },
+      "tags": [],
+      "name": "Benny",
+      "description": "Benny is sweet and friendly boy on the search for his forever family. To meet him fill out an application...",
+      "organization_animal_id": "15945575",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
       "status": "adoptable",
-      "published_at": "2018-12-22T20:31:32+0000",
+      "status_changed_at": "2020-08-12T05:06:21+0000",
+      "published_at": "2020-08-12T05:06:21+0000",
+      "distance": null,
       "contact": {
-        "email": "petfindertechsupport@gmail.com",
-        "phone": "111-333-5555, 222-333-5555, 333-333-5353, 111-333-2222",
+        "email": "karen@2darescue.org",
+        "phone": "480-229-9530      ",
         "address": {
-          "address1": "Test address 1",
-          "address2": "Test address 2",
-          "city": "Jersey City",
-          "state": "NJ",
-          "postcode": "07097",
+          "address1": null,
+          "address2": null,
+          "city": "Phoenix",
+          "state": "AZ",
+          "postcode": "85034",
           "country": "US"
         }
       },
       "_links": {
-        "self": {
-          "href": "/v2/animals/120"
-        },
-        "type": {
-          "href": "/v2/types/dog"
-        },
-        "organization": {
-          "href": "/v2/organizations/nj333"
+        "self": { "href": "/v2/animals/48754065" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/az490" }
+      }
+    },
+    {
+      "id": 48754066,
+      "organization_id": "AZ490",
+      "url": "https://www.petfinder.com/dog/brownie-48754066/az/phoenix/2darescue-az490/?referrer_id=4bfd708a-5b08-4e9d-9386-63e638af4c36",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Labrador Retriever",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": { "children": true, "dogs": true, "cats": null },
+      "tags": [],
+      "name": "Brownie",
+      "description": "Brownie has just arrived from Yuma and is need of the perfect family. So glad shes in our care to...",
+      "organization_animal_id": "15945574",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-08-12T05:06:21+0000",
+      "published_at": "2020-08-12T05:06:21+0000",
+      "distance": null,
+      "contact": {
+        "email": "karen@2darescue.org",
+        "phone": "480-229-9530      ",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Phoenix",
+          "state": "AZ",
+          "postcode": "85034",
+          "country": "US"
         }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/48754066" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/az490" }
+      }
+    },
+    {
+      "id": 48754067,
+      "organization_id": "AZ490",
+      "url": "https://www.petfinder.com/dog/demi-48754067/az/phoenix/2darescue-az490/?referrer_id=4bfd708a-5b08-4e9d-9386-63e638af4c36",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Labrador Retriever",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": { "children": true, "dogs": true, "cats": null },
+      "tags": [],
+      "name": "Demi",
+      "description": "Demi is charming 1 year old looking for a fun, loving and caring family. Please fill out an application at...",
+      "organization_animal_id": "15945572",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-08-12T05:06:21+0000",
+      "published_at": "2020-08-12T05:06:21+0000",
+      "distance": null,
+      "contact": {
+        "email": "karen@2darescue.org",
+        "phone": "480-229-9530      ",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Phoenix",
+          "state": "AZ",
+          "postcode": "85034",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/48754067" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/az490" }
+      }
+    },
+    {
+      "id": 48754068,
+      "organization_id": "AZ490",
+      "url": "https://www.petfinder.com/dog/carrier-48754068/az/phoenix/2darescue-az490/?referrer_id=4bfd708a-5b08-4e9d-9386-63e638af4c36",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Labrador Retriever",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": { "children": true, "dogs": true, "cats": null },
+      "tags": [],
+      "name": "Carrier",
+      "description": "Carrie is sweet and loving, and will make a great addition to your family. Please submit an application at 2darescue.org...",
+      "organization_animal_id": "15945573",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-08-12T05:06:21+0000",
+      "published_at": "2020-08-12T05:06:21+0000",
+      "distance": null,
+      "contact": {
+        "email": "karen@2darescue.org",
+        "phone": "480-229-9530      ",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Phoenix",
+          "state": "AZ",
+          "postcode": "85034",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/48754068" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/az490" }
+      }
+    },
+    {
+      "id": 48754061,
+      "organization_id": "CT349",
+      "url": "https://www.petfinder.com/dog/nova-48754061/ct/westport/little-pink-shelter-ct349/?referrer_id=4bfd708a-5b08-4e9d-9386-63e638af4c36",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Goldendoodle",
+        "secondary": "White German Shepherd",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "White / Cream",
+        "secondary": "Yellow / Tan / Blond / Fawn",
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Large",
+      "coat": "Medium",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": true, "dogs": true, "cats": null },
+      "tags": [],
+      "name": "Nova",
+      "description": "THE FIRST STEP IN THE PROCESS IS SUBMITTING AN APPLICATION. WE CANNOT ANSWER EMAILS ASKING ABOUT A DOG&#039;S AVAILABILITY. IF...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754061/1/?bust=1597208720&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754061/1/?bust=1597208720&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754061/1/?bust=1597208720&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754061/1/?bust=1597208720"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754061/2/?bust=1597208723&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754061/2/?bust=1597208723&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754061/2/?bust=1597208723&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754061/2/?bust=1597208723"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754061/3/?bust=1597208729&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754061/3/?bust=1597208729&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754061/3/?bust=1597208729&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754061/3/?bust=1597208729"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754061/4/?bust=1597208738&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754061/4/?bust=1597208738&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754061/4/?bust=1597208738&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754061/4/?bust=1597208738"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754061/5/?bust=1597208742&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754061/5/?bust=1597208742&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754061/5/?bust=1597208742&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754061/5/?bust=1597208742"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754061/1/?bust=1597208720&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754061/1/?bust=1597208720&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754061/1/?bust=1597208720&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754061/1/?bust=1597208720"
+      },
+      "videos": [
+        {
+          "embed": "<iframe title=\"Video\" src=\"https://www.youtube.com/embed/cl-Y9CLR98I?enablejsapi=1\" frameborder=\"0\" allowfullscreen></iframe>"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2020-08-12T05:06:02+0000",
+      "published_at": "2020-08-12T05:06:02+0000",
+      "distance": null,
+      "contact": {
+        "email": "adopt@pinkshelter.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Westport",
+          "state": "CT",
+          "postcode": "06880",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/48754061" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/ct349" }
+      }
+    },
+    {
+      "id": 48754014,
+      "organization_id": "WA681",
+      "url": "https://www.petfinder.com/dog/zoey-48754014/wa/spokane/path-of-hope-rescue-wa681/?referrer_id=4bfd708a-5b08-4e9d-9386-63e638af4c36",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Pit Bull Terrier",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": true, "dogs": true, "cats": true },
+      "tags": [],
+      "name": "Zoey",
+      "description": "Meet Zoey ?\n\nShe arrived on transport last week with her extraordinary playlist of puppies and they will all be...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754014/1/?bust=1597208216&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754014/1/?bust=1597208216&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754014/1/?bust=1597208216&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754014/1/?bust=1597208216"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754014/2/?bust=1597208220&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754014/2/?bust=1597208220&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754014/2/?bust=1597208220&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754014/2/?bust=1597208220"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754014/3/?bust=1597208222&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754014/3/?bust=1597208222&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754014/3/?bust=1597208222&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754014/3/?bust=1597208222"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754014/4/?bust=1597208224&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754014/4/?bust=1597208224&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754014/4/?bust=1597208224&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754014/4/?bust=1597208224"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754014/1/?bust=1597208216&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754014/1/?bust=1597208216&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754014/1/?bust=1597208216&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754014/1/?bust=1597208216"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-08-12T05:01:54+0000",
+      "published_at": "2020-08-12T05:01:54+0000",
+      "distance": null,
+      "contact": {
+        "email": "Adoptions@pathofhoperescue.com",
+        "phone": "(509) 280-4192",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Spokane",
+          "state": "WA",
+          "postcode": "99207",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/48754014" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/wa681" }
+      }
+    },
+    {
+      "id": 48753861,
+      "organization_id": "WY57",
+      "url": "https://www.petfinder.com/dog/bandit-ss-48753861/wy/cody/3-dog-rescue-wy57/?referrer_id=4bfd708a-5b08-4e9d-9386-63e638af4c36",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Spaniel",
+        "secondary": "Border Collie",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": "White / Cream",
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": true, "dogs": true, "cats": false },
+      "tags": [],
+      "name": "Bandit SS",
+      "description": "&quot;Bandit&quot; is a neutered Springer Spaniel/Border Collie mix who was a stray in Thermopolis.  He is approximately 3 1/2-4 years...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753861/1/?bust=1597207859&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753861/1/?bust=1597207859&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753861/1/?bust=1597207859&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753861/1/?bust=1597207859"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753861/2/?bust=1597207873&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753861/2/?bust=1597207873&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753861/2/?bust=1597207873&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753861/2/?bust=1597207873"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753861/1/?bust=1597207859&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753861/1/?bust=1597207859&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753861/1/?bust=1597207859&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753861/1/?bust=1597207859"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-08-12T05:00:16+0000",
+      "published_at": "2020-08-12T05:00:16+0000",
+      "distance": null,
+      "contact": {
+        "email": "kathy@3dogrescue.com",
+        "phone": "(307)587-4794  ",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Cody",
+          "state": "WY",
+          "postcode": "82414",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/48753861" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/wy57" }
+      }
+    },
+    {
+      "id": 48754007,
+      "organization_id": "VA583",
+      "url": "https://www.petfinder.com/dog/bunches-of-baby-beagles-48754007/va/midlothian/sanctuary-rescue-va583/?referrer_id=4bfd708a-5b08-4e9d-9386-63e638af4c36",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Beagle",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tricolor (Brown, Black, & White)",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": true, "dogs": true, "cats": true },
+      "tags": [],
+      "name": "Bunches of Baby Beagles!",
+      "description": "Hello! Thank you for checking out the listing for our Beagle Babies!  Adoption questionnaires can be found at www.sanctuaryrescue.com under...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754007/1/?bust=1597207968&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754007/1/?bust=1597207968&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754007/1/?bust=1597207968&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754007/1/?bust=1597207968"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754007/2/?bust=1597208025&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754007/2/?bust=1597208025&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754007/2/?bust=1597208025&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754007/2/?bust=1597208025"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754007/3/?bust=1597208127&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754007/3/?bust=1597208127&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754007/3/?bust=1597208127&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754007/3/?bust=1597208127"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754007/4/?bust=1597208198&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754007/4/?bust=1597208198&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754007/4/?bust=1597208198&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754007/4/?bust=1597208198"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754007/5/?bust=1597208227&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754007/5/?bust=1597208227&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754007/5/?bust=1597208227&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754007/5/?bust=1597208227"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754007/6/?bust=1597208297&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754007/6/?bust=1597208297&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754007/6/?bust=1597208297&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754007/6/?bust=1597208297"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754007/1/crop/?bust=1597207968&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754007/1/crop/?bust=1597207968&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754007/1/crop/?bust=1597207968&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754007/1/crop/?bust=1597207968"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-08-12T04:59:07+0000",
+      "published_at": "2020-08-12T04:59:07+0000",
+      "distance": null,
+      "contact": {
+        "email": "sanctuaryrescuepetfinder@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Midlothian",
+          "state": "VA",
+          "postcode": "23112",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/48754007" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/va583" }
+      }
+    },
+    {
+      "id": 48753983,
+      "organization_id": "IN228",
+      "url": "https://www.petfinder.com/dog/george-48753983/in/kokomo/pals-for-paws-inc-in228/?referrer_id=4bfd708a-5b08-4e9d-9386-63e638af4c36",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Black Labrador Retriever",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": "White / Cream",
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Large",
+      "coat": "Medium",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": true, "dogs": true, "cats": true },
+      "tags": [],
+      "name": "George",
+      "description": "Hello! My name is George! I am a big 5 month old black lab puppy and I am as sweet...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753983/1/?bust=1597207326&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753983/1/?bust=1597207326&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753983/1/?bust=1597207326&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753983/1/?bust=1597207326"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753983/2/?bust=1597207424&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753983/2/?bust=1597207424&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753983/2/?bust=1597207424&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753983/2/?bust=1597207424"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753983/3/?bust=1597207459&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753983/3/?bust=1597207459&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753983/3/?bust=1597207459&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753983/3/?bust=1597207459"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753983/4/?bust=1597207679&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753983/4/?bust=1597207679&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753983/4/?bust=1597207679&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753983/4/?bust=1597207679"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753983/1/?bust=1597207326&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753983/1/?bust=1597207326&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753983/1/?bust=1597207326&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753983/1/?bust=1597207326"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-08-12T04:55:12+0000",
+      "published_at": "2020-08-12T04:55:12+0000",
+      "distance": null,
+      "contact": {
+        "email": "palsforpawshc@aol.com",
+        "phone": "(765) 454-8796",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Kokomo",
+          "state": "IN",
+          "postcode": "46903",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/48753983" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/in228" }
+      }
+    },
+    {
+      "id": 48754016,
+      "organization_id": "CA1482",
+      "url": "https://www.petfinder.com/dog/galaxy-48754016/ca/san-diego/second-chance-dog-rescue-ca1482/?referrer_id=4bfd708a-5b08-4e9d-9386-63e638af4c36",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Manchester Terrier",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": null, "dogs": true, "cats": null },
+      "tags": [],
+      "name": "Galaxy",
+      "description": "ATTENTION: All of our dogs are in private foster homes. We do NOT have a kennel with multiple dogs. If...",
+      "organization_animal_id": "15925206-12162",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754016/1/?bust=1597208620&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754016/1/?bust=1597208620&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754016/1/?bust=1597208620&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754016/1/?bust=1597208620"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754016/3/?bust=1597208620&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754016/3/?bust=1597208620&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754016/3/?bust=1597208620&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754016/3/?bust=1597208620"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754016/2/?bust=1597208620&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754016/2/?bust=1597208620&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754016/2/?bust=1597208620&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754016/2/?bust=1597208620"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754016/1/?bust=1597208620&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754016/1/?bust=1597208620&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754016/1/?bust=1597208620&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754016/1/?bust=1597208620"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-08-12T04:53:33+0000",
+      "published_at": "2020-08-12T04:53:33+0000",
+      "distance": null,
+      "contact": {
+        "email": "info@secondchancedogrescue.org",
+        "phone": "619-721-3647 ",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "San Diego",
+          "state": "CA",
+          "postcode": "92102",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/48754016" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/ca1482" }
+      }
+    },
+    {
+      "id": 48754011,
+      "organization_id": "NE149",
+      "url": "https://www.petfinder.com/dog/sheila-48754011/ne/gretna/heartland-german-shepherd-rescue-hugs-ne149/?referrer_id=4bfd708a-5b08-4e9d-9386-63e638af4c36",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Australian Cattle Dog / Blue Heeler",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": { "children": null, "dogs": true, "cats": null },
+      "tags": [],
+      "name": "Sheila",
+      "description": "You can fill out an adoption application online on our official website.German Shepherd dogs, as well as the other herding...",
+      "organization_animal_id": "15945567",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-08-12T04:52:19+0000",
+      "published_at": "2020-08-12T04:52:19+0000",
+      "distance": null,
+      "contact": {
+        "email": "heartlandgsrescue@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Gretna",
+          "state": "NE",
+          "postcode": "68028",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/48754011" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/ne149" }
+      }
+    },
+    {
+      "id": 48754008,
+      "organization_id": "AZ490",
+      "url": "https://www.petfinder.com/dog/kayla-48754008/az/phoenix/2darescue-az490/?referrer_id=4bfd708a-5b08-4e9d-9386-63e638af4c36",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Great Pyrenees",
+        "secondary": "Labrador Retriever",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": { "children": true, "dogs": true, "cats": null },
+      "tags": [],
+      "name": "Kayla",
+      "description": "Kayla is a sweet, loving and fun bundle of joy looking for the perfect family. To meet her please fill...",
+      "organization_animal_id": "15945569",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754008/1/?bust=1597208495&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754008/1/?bust=1597208495&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754008/1/?bust=1597208495&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754008/1/?bust=1597208495"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754008/1/?bust=1597208495&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754008/1/?bust=1597208495&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754008/1/?bust=1597208495&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754008/1/?bust=1597208495"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-08-12T04:51:32+0000",
+      "published_at": "2020-08-12T04:51:32+0000",
+      "distance": null,
+      "contact": {
+        "email": "karen@2darescue.org",
+        "phone": "480-229-9530      ",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Phoenix",
+          "state": "AZ",
+          "postcode": "85034",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/48754008" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/az490" }
+      }
+    },
+    {
+      "id": 48754009,
+      "organization_id": "AZ490",
+      "url": "https://www.petfinder.com/dog/tigre-48754009/az/phoenix/2darescue-az490/?referrer_id=4bfd708a-5b08-4e9d-9386-63e638af4c36",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Labrador Retriever",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": [],
+      "name": "Tigre",
+      "description": "Tigre is looking for his family to spoil him forever. He is a sweet, loving, and full of joy. To...",
+      "organization_animal_id": "15945566",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754009/1/?bust=1597208498&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754009/1/?bust=1597208498&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754009/1/?bust=1597208498&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754009/1/?bust=1597208498"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754009/1/?bust=1597208498&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754009/1/?bust=1597208498&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754009/1/?bust=1597208498&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754009/1/?bust=1597208498"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-08-12T04:51:32+0000",
+      "published_at": "2020-08-12T04:51:32+0000",
+      "distance": null,
+      "contact": {
+        "email": "karen@2darescue.org",
+        "phone": "480-229-9530      ",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Phoenix",
+          "state": "AZ",
+          "postcode": "85034",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/48754009" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/az490" }
+      }
+    },
+    {
+      "id": 48754010,
+      "organization_id": "AZ490",
+      "url": "https://www.petfinder.com/dog/moose-48754010/az/phoenix/2darescue-az490/?referrer_id=4bfd708a-5b08-4e9d-9386-63e638af4c36",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Labrador Retriever",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": { "children": true, "dogs": true, "cats": null },
+      "tags": [],
+      "name": "Moose",
+      "description": "Moose is a gentleman looking for the perfect family to spoil him. Please fill out an application at 2darescue.org",
+      "organization_animal_id": "15945568",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754010/1/?bust=1597208499&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754010/1/?bust=1597208499&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754010/1/?bust=1597208499&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754010/1/?bust=1597208499"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754010/1/?bust=1597208499&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754010/1/?bust=1597208499&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754010/1/?bust=1597208499&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754010/1/?bust=1597208499"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-08-12T04:51:32+0000",
+      "published_at": "2020-08-12T04:51:32+0000",
+      "distance": null,
+      "contact": {
+        "email": "karen@2darescue.org",
+        "phone": "480-229-9530      ",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Phoenix",
+          "state": "AZ",
+          "postcode": "85034",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/48754010" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/az490" }
+      }
+    },
+    {
+      "id": 48753975,
+      "organization_id": "AZ560",
+      "url": "https://www.petfinder.com/dog/mae-mae-48753975/az/phoenix/adorable-dog-rescue-az560/?referrer_id=4bfd708a-5b08-4e9d-9386-63e638af4c36",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Dachshund",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Red / Chestnut / Orange",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Small",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": null, "dogs": true, "cats": null },
+      "tags": [],
+      "name": "Mae Mae",
+      "description": "7-8 yrs old\n18 pounds\nVERY VERY SWEET Lover/Cuddler!!  Just wants to be loved!! \nLikes to sleep with you at...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753975/3/?bust=1597207472&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753975/3/?bust=1597207472&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753975/3/?bust=1597207472&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753975/3/?bust=1597207472"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753975/2/?bust=1597207406&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753975/2/?bust=1597207406&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753975/2/?bust=1597207406&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753975/2/?bust=1597207406"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753975/3/?bust=1597207472&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753975/3/?bust=1597207472&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753975/3/?bust=1597207472&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753975/3/?bust=1597207472"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-08-12T04:51:16+0000",
+      "published_at": "2020-08-12T04:51:16+0000",
+      "distance": null,
+      "contact": {
+        "email": "AdorableDogRescue@yahoo.com",
+        "phone": "Please email us.",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Phoenix",
+          "state": "AZ",
+          "postcode": "85016",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/48753975" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/az560" }
+      }
+    },
+    {
+      "id": 48753997,
+      "organization_id": "OK459",
+      "url": "https://www.petfinder.com/dog/kelso-48753997/ok/oklahoma-city/mutt-misfits-society-ok459/?referrer_id=4bfd708a-5b08-4e9d-9386-63e638af4c36",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Belgian Shepherd / Tervuren",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Brown / Chocolate",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": true, "dogs": true, "cats": true },
+      "tags": ["energetic", "playful", "cuddly"],
+      "name": "Kelso",
+      "description": "Kelso is a Belgian Shepherd mix. He is about 4-months old and is currently 25 pounds. He will be about...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753997/1/?bust=1597207769&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753997/1/?bust=1597207769&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753997/1/?bust=1597207769&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753997/1/?bust=1597207769"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753997/2/?bust=1597207777&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753997/2/?bust=1597207777&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753997/2/?bust=1597207777&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753997/2/?bust=1597207777"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753997/3/?bust=1597207788&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753997/3/?bust=1597207788&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753997/3/?bust=1597207788&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753997/3/?bust=1597207788"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753997/4/?bust=1597207796&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753997/4/?bust=1597207796&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753997/4/?bust=1597207796&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753997/4/?bust=1597207796"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753997/1/?bust=1597207769&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753997/1/?bust=1597207769&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753997/1/?bust=1597207769&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753997/1/?bust=1597207769"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-08-12T04:50:35+0000",
+      "published_at": "2020-08-12T04:50:35+0000",
+      "distance": null,
+      "contact": {
+        "email": "muttmisfitsadoptions@yahoo.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Oklahoma City",
+          "state": "OK",
+          "postcode": "73112",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/48753997" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/ok459" }
+      }
+    },
+    {
+      "id": 48753891,
+      "organization_id": "VA583",
+      "url": "https://www.petfinder.com/dog/beagle-babies-48753891/va/midlothian/sanctuary-rescue-va583/?referrer_id=4bfd708a-5b08-4e9d-9386-63e638af4c36",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Beagle",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": true, "dogs": true, "cats": true },
+      "tags": ["Sweet", "playful", "adorabke", "silly", "cuddly"],
+      "name": "Beagle Babies!",
+      "description": "Hello! Thank you for checking out the listing for our Beagle Babies!  Adoption questionnaires can be found at www.sanctuaryrescue.com under...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753891/1/?bust=1597205221&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753891/1/?bust=1597205221&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753891/1/?bust=1597205221&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753891/1/?bust=1597205221"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753891/2/?bust=1597207518&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753891/2/?bust=1597207518&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753891/2/?bust=1597207518&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753891/2/?bust=1597207518"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753891/3/?bust=1597207558&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753891/3/?bust=1597207558&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753891/3/?bust=1597207558&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753891/3/?bust=1597207558"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753891/4/?bust=1597207730&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753891/4/?bust=1597207730&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753891/4/?bust=1597207730&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753891/4/?bust=1597207730"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753891/5/?bust=1597207750&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753891/5/?bust=1597207750&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753891/5/?bust=1597207750&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753891/5/?bust=1597207750"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753891/1/crop/?bust=1597205221&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753891/1/crop/?bust=1597205221&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753891/1/crop/?bust=1597205221&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48753891/1/crop/?bust=1597205221"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-08-12T04:50:20+0000",
+      "published_at": "2020-08-12T04:50:20+0000",
+      "distance": null,
+      "contact": {
+        "email": "sanctuaryrescuepetfinder@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Midlothian",
+          "state": "VA",
+          "postcode": "23112",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/48753891" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/va583" }
+      }
+    },
+    {
+      "id": 48754001,
+      "organization_id": "CO426",
+      "url": "https://www.petfinder.com/dog/tater-star-48754001/co/colorado-springs/new-hope-rescue-inc-co426/?referrer_id=4bfd708a-5b08-4e9d-9386-63e638af4c36",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Labrador Retriever",
+        "secondary": "Shepherd",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Yellow / Tan / Blond / Fawn",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": [],
+      "name": "Tater*",
+      "description": "We expect this animal to arrive and be available on Thursday 8/13. We won&amp;#39;t know any more about the pet...",
+      "organization_animal_id": "NHR-A-3987",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754001/1/?bust=1597208421&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754001/1/?bust=1597208421&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754001/1/?bust=1597208421&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754001/1/?bust=1597208421"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754001/2/?bust=1597208421&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754001/2/?bust=1597208421&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754001/2/?bust=1597208421&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754001/2/?bust=1597208421"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754001/1/?bust=1597208421&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754001/1/?bust=1597208421&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754001/1/?bust=1597208421&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754001/1/?bust=1597208421"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-08-12T04:50:10+0000",
+      "published_at": "2020-08-12T04:50:10+0000",
+      "distance": null,
+      "contact": {
+        "email": "newhoperescueinc@gmail.com",
+        "phone": "(719) 622-1399",
+        "address": {
+          "address1": "2502 E Bijou",
+          "address2": null,
+          "city": "Colorado Springs",
+          "state": "CO",
+          "postcode": "80907",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/48754001" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/co426" }
+      }
+    },
+    {
+      "id": 48754000,
+      "organization_id": "CO426",
+      "url": "https://www.petfinder.com/dog/cricket-star-48754000/co/colorado-springs/new-hope-rescue-inc-co426/?referrer_id=4bfd708a-5b08-4e9d-9386-63e638af4c36",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Labrador Retriever",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Yellow / Tan / Blond / Fawn",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": [],
+      "name": "Cricket*",
+      "description": "We expect this animal to arrive and be available on Thursday 8/13. We won&amp;#39;t know any more about the pet...",
+      "organization_animal_id": "NHR-A-3985",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754000/1/?bust=1597208421&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754000/1/?bust=1597208421&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754000/1/?bust=1597208421&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754000/1/?bust=1597208421"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754000/2/?bust=1597208420&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754000/2/?bust=1597208420&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754000/2/?bust=1597208420&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754000/2/?bust=1597208420"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754000/3/?bust=1597208421&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754000/3/?bust=1597208421&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754000/3/?bust=1597208421&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754000/3/?bust=1597208421"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754000/1/?bust=1597208421&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754000/1/?bust=1597208421&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754000/1/?bust=1597208421&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754000/1/?bust=1597208421"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-08-12T04:50:10+0000",
+      "published_at": "2020-08-12T04:50:10+0000",
+      "distance": null,
+      "contact": {
+        "email": "newhoperescueinc@gmail.com",
+        "phone": "(719) 622-1399",
+        "address": {
+          "address1": "2502 E Bijou",
+          "address2": null,
+          "city": "Colorado Springs",
+          "state": "CO",
+          "postcode": "80907",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/48754000" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/co426" }
+      }
+    },
+    {
+      "id": 48754003,
+      "organization_id": "CO426",
+      "url": "https://www.petfinder.com/dog/indiana-bones-48754003/co/colorado-springs/new-hope-rescue-inc-co426/?referrer_id=4bfd708a-5b08-4e9d-9386-63e638af4c36",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Shepherd",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Brown / Chocolate",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": [],
+      "name": "Indiana Bones",
+      "description": "We expect this animal to arrive and be available on Thursday 8/13. We won&amp;#39;t know any more about the pet...",
+      "organization_animal_id": "NHR-A-3988",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754003/1/?bust=1597208421&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754003/1/?bust=1597208421&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754003/1/?bust=1597208421&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754003/1/?bust=1597208421"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754003/2/?bust=1597208422&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754003/2/?bust=1597208422&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754003/2/?bust=1597208422&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754003/2/?bust=1597208422"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754003/1/?bust=1597208421&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754003/1/?bust=1597208421&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754003/1/?bust=1597208421&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48754003/1/?bust=1597208421"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-08-12T04:50:10+0000",
+      "published_at": "2020-08-12T04:50:10+0000",
+      "distance": null,
+      "contact": {
+        "email": "newhoperescueinc@gmail.com",
+        "phone": "(719) 622-1399",
+        "address": {
+          "address1": "2502 E Bijou",
+          "address2": null,
+          "city": "Colorado Springs",
+          "state": "CO",
+          "postcode": "80907",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/48754003" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/co426" }
       }
     }
   ],

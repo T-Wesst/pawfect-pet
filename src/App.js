@@ -50,7 +50,7 @@ export default function App() {
             padding: '32px',
           }}
         >
-          <Cards {...data} />
+          <Cards {...myData} />
         </Typography>
       </Container>
     </React.Fragment>
