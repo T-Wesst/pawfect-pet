@@ -61,7 +61,7 @@ export default function Animal(props) {
 
   return (
     <div>
-      <Card className={classes.root} raised="true" elevation="1">
+      <Card>
         <CardHeader
           title={name}
           subheader={`${name} is a ${age} ${breeds.primary} ${gender} and is ${status}!
@@ -75,8 +75,8 @@ export default function Animal(props) {
         <CardMedia
           className={classes.media}
           image={
-            photos.length > 0 && photos[0]['small']
-              ? photos[0]['small']
+            photos.length > 0 && photos[0]['large']
+              ? photos[0]['large']
               : placeholder
           }
         />

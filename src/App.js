@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from 'react';
-import Container from './components/Container';
+import Container from '@material-ui/core/Container';
+import Typography from '@material-ui/core/Typography';
 import Cards from './components/Cards';
+import CssBaseline from '@material-ui/core/CssBaseline';
 import Navbar from './components/NavBar';
 import myData from './data.json';
 import axios from 'axios';
@@ -36,8 +38,21 @@ export default function App() {
   return (
     <React.Fragment style={{ backgroundColor: 'E9EBEE' }}>
       <Navbar />
-      <Container />
-      <Cards {...myData} />
+      <CssBaseline />
+      <Container maxWidth="md">
+        <Typography
+          component="div"
+          style={{
+            backgroundColor: '#fff',
+            height: '100vh',
+            border: 'solid #F2F2F2 2px',
+            boxShadow: '0px 0px 12px #888888',
+            padding: '32px',
+          }}
+        >
+          <Cards {...data} />
+        </Typography>
+      </Container>
     </React.Fragment>
   );
 }
