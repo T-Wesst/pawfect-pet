@@ -11,6 +11,7 @@ import CardContent from '@material-ui/core/CardContent';
 import Typography from '@material-ui/core/Typography';
 import Chip from '@material-ui/core/Chip';
 import Paper from '@material-ui/core/Paper';
+import { red } from '@material-ui/core/colors';
 import { makeStyles } from '@material-ui/core/styles';
 import Avatar from '@material-ui/core/Avatar';
 import PetsIcon from '@material-ui/icons/Pets';
@@ -25,12 +26,20 @@ import CallIcon from '@material-ui/icons/Call';
 
 const useStyles = makeStyles((theme) => ({
   root: {
+    maxWidth: 345,
     display: 'flex',
     justifyContent: 'center',
     flexWrap: 'wrap',
     listStyle: 'none',
     padding: theme.spacing(0.5),
-    margin: 0,
+    margin: '0 auto',
+  },
+  media: {
+    height: 0,
+    paddingTop: '56.25%',
+  },
+  avatar: {
+    backgroundColor: red[500],
   },
   chip: {
     margin: theme.spacing(0.5),
@@ -48,25 +57,11 @@ export default function Animal(props) {
     description,
   } = props;
 
-  const useStyles = makeStyles((theme) => ({
-    root: {
-      display: 'flex',
-      justifyContent: 'center',
-      flexWrap: 'wrap',
-      listStyle: 'none',
-      padding: theme.spacing(0.5),
-      margin: 0,
-    },
-    chip: {
-      margin: theme.spacing(0.5),
-    },
-  }));
-
   const classes = useStyles();
 
   return (
     <div>
-      <Card raised="true" elevation="1">
+      <Card className={classes.root} raised="true" elevation="1">
         <CardHeader
           title={name}
           subheader={`${name} is a ${age} ${breeds.primary} ${gender} and is ${status}!
@@ -78,6 +73,7 @@ export default function Animal(props) {
           }
         />
         <CardMedia
+          className={classes.media}
           image={
             photos.length > 0 && photos[0]['small']
               ? photos[0]['small']
